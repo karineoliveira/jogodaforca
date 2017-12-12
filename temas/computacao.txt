@@ -1,24 +1,23 @@
-
-Primeiro computador digital eletronico
+Primeiro computador digital eletrônico
 Eniac
 
 Parte física de um computador
 Hardware 
 
-tipo de memoria temporaria de um pc
- RAM
+Tipo de memoria temporaria de um computador
+RAM
 
-programa com um nome historico é malicioso que causa perda d e informacoes
+Programa com um nome historico é malicioso pois causa perda de informações
 cavalo de troia
 
-correio eletronico em que se pode enviar,receber ou encaminhar mendsagens
+correio eletrônico em que se pode enviar,receber ou encaminhar mensagens
 e-mail
 
 um dos fundadores da apple
 steve jobs
 
 aparelho que é sensivel ao toque
-touchscreen
+Touch Screen
 
 Sistema operacional mais vendido no mundo:
 android
@@ -26,11 +25,11 @@ android
 software contra virus
 antivirus
 
-forma de codificar a informação para que apenas o emissor e o receptor consiga decifrá-la. 
+forma de codificar a informação para que apenas o emissor e o receptor consigam decifrá-la. 
 Criptografia
 
-o usuario que se conectar a uma wifi desconhecida com sinal aberto esta sujeito a:
-conseguir dados de quem acessou
+É um programa de troca de mensagens por voz e vídeo
+Skype 
 
 Aplicativo que é usado para realizar operações financeiras e contabilísticas usando panilhas eletrônicas
 Excel
@@ -57,3 +56,12 @@ serve para produzir paginas web
 html
 
 
+rede de computadores que trocam dados e mensagens utilizando um protocolo comum
+internet
+
+Rede social voltada para aspectos profissionais,permite criação de perfis online,disponibiliza tambem curriculo online
+permitindo a procura por empregos e desenvolvimento de sua carreira
+LinkedIn
+
+Rede de contatos que compartilha serviços e informação entre indivíduos que tem interesse em comum
+Networking
