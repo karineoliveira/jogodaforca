@@ -55,12 +55,10 @@ processador de computador
 serve para produzir paginas web
 html
 
-
 rede de computadores que trocam dados e mensagens utilizando um protocolo comum
 internet
 
-Rede social voltada para aspectos profissionais,permite criação de perfis online,disponibiliza tambem curriculo online
-permitindo a procura por empregos e desenvolvimento de sua carreira
+Rede social voltada a aspectos profissionais,permite criação de perfis online e curriculo online permitindo a procura por empregos e desenvolvimento de sua carreira
 LinkedIn
 
 Rede de contatos que compartilha serviços e informação entre indivíduos que tem interesse em comum
